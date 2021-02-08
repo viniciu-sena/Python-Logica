@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #20
 import math
 
