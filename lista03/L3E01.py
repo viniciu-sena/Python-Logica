@@ -1,3 +1,6 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+#01
+
 num1 = -1
 while num1 < 0 or num1 > 10:
    num1 = float(input("Informe uma nota entre 0 e 10: "))
