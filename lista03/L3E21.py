@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #21
 import sympy
 
