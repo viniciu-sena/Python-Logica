@@ -1,3 +1,5 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+#12
 num1 = int(input("De qual número deseja ver a tabuada:  "))
 
 print("Tabuado do" , num1 , ":")
