@@ -1,3 +1,5 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+#03
 nome = input("Informe seu nome: ")
 idade = int(input("Informe sua idade: "))
 salario = float(input("Informe seu salário: "))
