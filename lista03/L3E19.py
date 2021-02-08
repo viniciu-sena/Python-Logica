@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #19
 n = int(input("N° de valores: "))
 
