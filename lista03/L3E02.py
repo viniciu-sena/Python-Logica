@@ -1,3 +1,5 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+#02
 nome = input("Informe seu nome de usuário: ")
 senha = input("Informe sua senha: ")
 
