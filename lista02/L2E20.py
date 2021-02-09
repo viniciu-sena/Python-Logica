@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #20
 
 nota1 = float(input("Digite a primeira nota: "))
