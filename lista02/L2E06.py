@@ -1,3 +1,6 @@
+# Desenvolvido por Daniel Schinaider de Oliveir
+# EXercício número 6
+
 maior = 0
 num1 = float(input("Digite o 1° valor: "))
 num2 = float(input("Digite o 2° valor: "))
