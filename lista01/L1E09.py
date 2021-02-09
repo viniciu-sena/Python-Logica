@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #09
 temp = float( input("informe a temperatura em Fahrenheit: ") )
 
