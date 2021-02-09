@@ -1,4 +1,4 @@
-# Desenvolvido por Vinícius Silva Sena
+# Desenvolvido por Daniel Schinaider de Oliveira
 # Exercício número 28
 print("  Tipos          Até 5 kg        Acima de 5 kg\n"
       " 1) FileDuplo    R$4.90 por KG   R$5.80 por KG\n"
