@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #11
 
 salario = float(input("Digite seu salário: R$"))
