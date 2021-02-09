@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #15
 valor = float(input("Valor hora: "))
 hora = int(input("Horas trablhadas por mes: "))
