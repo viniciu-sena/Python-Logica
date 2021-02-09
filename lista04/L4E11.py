@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #11
 
 lista1 = [1, 4, 7, 10, 13, 16, 19, 22, 25, 28]
