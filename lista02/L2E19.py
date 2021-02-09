@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #19
 import sys
 numero = int(input("Insira um numero menor que 1000 e maior que 0: "))
