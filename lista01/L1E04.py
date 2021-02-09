@@ -1,3 +1,4 @@
+# Feito por Daniel Schinaider
 #04
 soma = 0
 count = 0
