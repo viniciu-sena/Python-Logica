@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #12
 altura = float(input("Digite sua altura: (1.70)"))
 
