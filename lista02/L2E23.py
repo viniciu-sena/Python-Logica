@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #23
 
 valor = float(input("Digite um número: "))
