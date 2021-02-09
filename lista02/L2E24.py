@@ -1,3 +1,6 @@
+# Feito por Vinicius Silva Sena
+#24
+
 num1 = float( input("Digite o valor 1: "))
 num2 = float( input("Digite o valor 2: "))
 result = 0
