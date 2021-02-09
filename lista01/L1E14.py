@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #14
 peso = float(input("Digite o peso dos peixes: "))
 
