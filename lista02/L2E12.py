@@ -1,3 +1,6 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+# Exercício número 12
+
 horas = int( input("Informe a quantidade de horas trabalhadas no mês: "))
 valorHora = float( input("Informe o seu valor hora: \n"))
 
