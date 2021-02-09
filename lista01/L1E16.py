@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #16
 buy = 0.0
 pay = 0.0
