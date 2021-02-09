@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #10
 temp = int(input("Digite a temperatura (°C): "))
 fah = (temp * 1.8) + 32
