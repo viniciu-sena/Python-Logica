@@ -1,3 +1,5 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+# Exercício número 14
 nota1 = float(input("Informe a primeira nota: "))
 nota2 = float(input("Informe a segunda nota: "))
 
