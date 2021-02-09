@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #02
 
 valor = int(input("Digite um numero: "))
