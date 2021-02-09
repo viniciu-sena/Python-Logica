@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #13
 sex = input("Digite M para identificar seu sexo como masculino ou F para feminino:")
 h = float( input("Digite sua altura: ") )
