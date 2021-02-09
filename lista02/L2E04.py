@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #04
 letra = input("Informe UMA letra: ")
 
