@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #16
 # Valores verificados para teste valido: A=1, B=2 e C=-15. 
 # Os resultados devem ser raiz01=3 e raiz02=-5.
