@@ -1,3 +1,6 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+# Exercício número 18
+
 print("Formato da data dd/mm/aaaa")
 date = input("Insira uma data: ")
 dia = int(date.split("/")[0])
