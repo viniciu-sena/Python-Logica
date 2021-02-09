@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #15
 
 lado1 = float(input("Digite o tamanho do lado1 do triangulo:"))
