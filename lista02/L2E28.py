@@ -1,3 +1,5 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+# Exercício número 28
 print("  Tipos          Até 5 kg        Acima de 5 kg\n"
       " 1) FileDuplo    R$4.90 por KG   R$5.80 por KG\n"
       " 2) Alcatra      R$5.90 por KG   R$6.80 por KG\n"
