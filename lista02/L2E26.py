@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #26
 
 print("Digite [A] - Alcool")
