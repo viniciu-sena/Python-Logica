@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #13
 import numpy as np
 semana = ["domingo","segunda","terca","quarta","quinta","sexta","sabado"]
