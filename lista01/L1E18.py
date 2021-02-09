@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #18
 arquivo = float(input("Tamanho do arquivo MB: "))
 vel = float(input("Velocidade do link Mbps: "))
