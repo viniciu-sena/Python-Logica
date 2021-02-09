@@ -1,3 +1,4 @@
+# Feito por Kelvin Schneider
 #11
 int01 = int(input("informe um valor inteiro: "))
 int02 = int(input("informe um valor inteiro: "))
