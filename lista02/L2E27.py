@@ -1,3 +1,5 @@
+# Desenvolvido por Daniel Schinaider de Oliveira
+# Exercício número 27
 print("Morango e Maca")
 qtdMaca = float(input("Informe a quantidade(kgs) de maçãs que deseja comprar: "))
 
