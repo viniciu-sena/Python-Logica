@@ -1,3 +1,4 @@
+# Feito por Vinícius Silva Sena
 #01
 val01 = int(input("Informe o 1° valor: "))
 val02 = int(input("Informe o 2° valor: "))
