@@ -2,10 +2,12 @@
 #13
 import random
 
-arquivos = {'Animal.txt','Carro.txt','Cidade'}
+arquivos = {'Animal.txt' :  'Animal',
+            'Carro.txt' : 'Carro',
+            'Cidade.txt' : 'Cidade'}
 
 def choiceWord():
-  arquivo = random.choice(list(arquivos.keys()))
+  arquivo = random.choice(list(arquivos))
   linhas = open(arquivo).read().splitlines()
   palavra = random.choice(linhas)
   dica = arquivos[arquivo]
@@ -23,21 +25,21 @@ while newGame == 0:
 
   i = random.randint(0,5)
   palavra, dica = choiceWord()
-  palavra02 = emabaralhar(palavra)
+  palavra02 = embaralhar(palavra)
 
   x = 6
   print("Dica: ",dica)
   while x != 0:
     print("Palavra oculta: ",palavra02)
     resp = input("Palpite: ")
-    if resp == palavra:
+    if resp.lower() == palavra.lower():
       print("Vencedor!")
       break
     else:
-      print("Resposta errada, restam ",x," palpites")
+      print("Resposta errada, restam ",(x-1)," palpites")
       x -= 1
 
-  if x > 5:
+  if x == 0 :
     print("A palavra era - ",palavra)
     print("Game Over")
   else:
