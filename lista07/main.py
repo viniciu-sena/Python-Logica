@@ -1,5 +1,7 @@
 # Desenvolvido por Daniel Schinaider de Oliveira
 
+# 01 - Faça um programa que leia um arquivo texto contendo uma lista de endereços IP e gere um outro arquivo, contendo um relatório dos endereços IP válidos e inválidos
+
 from collections import OrderedDict
 # Instacia
 vetorA = []
