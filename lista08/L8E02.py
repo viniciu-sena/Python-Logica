@@ -2,7 +2,7 @@
 #02
 
 '''Como no exercicio não estava especificado, deixei um valor pré definido
-e dentro do método é aumentado o tomando do lado em 10%'''
+e dentro do método é aumentado o tamanho do lado em 10%'''
 
 class Quadrado:
   def __init__(self, tLado):
