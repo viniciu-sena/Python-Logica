@@ -1,4 +1,4 @@
-# Feito por Daniel Schinaider de Oliveira
+# Feito por Kelvin Schneider
 #04
 
 class Ponto:
